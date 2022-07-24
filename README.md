@@ -1,5 +1,4 @@
 # Classic-simon-game
----
 
 ## A great Simon game with its 4 big illuminated buttons, several difficulty Levels. Come and play the classic and famous Simon game!
 
