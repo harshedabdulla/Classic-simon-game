@@ -19,3 +19,6 @@ In each round a new key is added to the series and the game becomes increasingly
 
 ## What is Jquery?
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
+## Want to play the game?
+Go to - https://harshedabdulla.github.io/Classic-simon-game/
